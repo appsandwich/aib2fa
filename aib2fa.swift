@@ -33,7 +33,7 @@ class Transaction {
     }
     
     func exportFormat() -> String {
-        return self.exportDate() + "," + self.value + ",'\(self.explanation)'"
+        return self.exportDate() + "," + self.value + ",\(self.explanation)"
     }
 }
 
