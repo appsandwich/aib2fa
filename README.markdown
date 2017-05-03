@@ -14,7 +14,7 @@ Visit the [Marathon Github page](https://github.com/JohnSundell/Marathon) for in
  
 ### Installing the Script
 
-`git clone ...`
+`git clone git@github.com:appsandwich/aib2fa.git`
 
 `cd aib2fa`
 
